@@ -1,0 +1,7 @@
+/D
+cat > Hola.txt
+sapphire
+/D
+git status
+D
+git status
