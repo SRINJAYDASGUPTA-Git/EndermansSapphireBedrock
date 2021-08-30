@@ -1,5 +1,21 @@
 {
   "resource_pack_name": "bridgeRP",
   "texture_name": "atlas.items",
-  "texture_data": {}
+  "texture_data": {
+    "sapphire":{
+      "textures":"textures/items/sapphire"
+    },
+    "sapphire_helmet":{
+      "textures":"textures/items/sapphire_helmet"
+    },
+    "sapphire_chestplate":{
+      "textures":"textures/items/sapphire_chestplate"
+    },
+    "sapphire_leggings":{
+      "textures":"textures/items/sapphire_leggings"
+    },
+    "sapphire_boots":{
+      "textures":"textures/items/sapphire_boots"
+    }
+  }
 }

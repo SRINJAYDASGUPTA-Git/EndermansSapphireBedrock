@@ -1,2 +1,9 @@
 pack.name=Enderman's Sapphire
 pack.description=SAPPHIRE
+item.enderman:sapphire.name=Sapphire
+tile.enderman:sapphire_ore.name=Sapphire Ore
+item.enderman:sapphire_chestplate.name=Sapphire
+item.enderman:sapphire_helmet.name=Sapphire
+item.enderman:sapphire_leggings.name=Sapphire
+item.enderman:sapphire_boots.name=Sapphire
+tile.enderman:sapphire_block=Sapphire Block

@@ -1,7 +1,15 @@
 {
-  "resource_pack_name": "bridgeRP",
+  "resource_pack_name": "enderman",
   "texture_name": "atlas.terrain",
   "padding": 8,
   "num_mip_levels": 4,
-  "texture_data": {}
+  "texture_data": {
+    "sapphire_ore": {
+      "textures": "textures/blocks/sapphire_ore"
+    },
+    "sapphire_block":{
+        "textures":"textures/blocks/sapphire_block"
+    }
+    
+  }
 }
