@@ -1,0 +1,13 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "enderman:sapphire_chestplate",
+			"category": "Nature"
+		},
+		"components": {
+			"minecraft:icon": "sapphire_chestplate",
+			"minecraft:render_offsets":"diamond_chestplate"
+		}
+	}
+}
