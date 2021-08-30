@@ -1,0 +1,114 @@
+{
+	"entity": {
+		"BP/entities/player.json": {
+			"events": [
+				"minecraft:gain_bad_omen",
+				"minecraft:clear_add_bad_omen",
+				"minecraft:trigger_raid",
+				"minecraft:remove_raid_trigger"
+			],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"minecraft:player"
+			],
+			"animation_references": [],
+			"families": [
+				"player"
+			],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"item": {
+		"BP/items/sapphire.json": {
+			"identifiers": [
+				"enderman:sapphire"
+			],
+			"custom_commands": []
+		},
+		"BP/items/sapphire_chestplate.json": {
+			"identifiers": [
+				"enderman:sapphire_chestplate"
+			],
+			"custom_commands": []
+		}
+	},
+	"attachable": {
+		"RP/attachables/sapphire_chestplate.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/sapphire_leggings.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/sapphire_helmet.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/sapphire_chestplate.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/sapphire_helmet.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/sapphire_leggings.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		}
+	}
+}

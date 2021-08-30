@@ -1,0 +1,233 @@
+{
+	"file_path": "C:\\Users\\dasgu\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Enderman's Sapphire\\attachables\\sapphire_leggings.json",
+	"file_type": "attachable",
+	"format_version": 1,
+	"file_uuid": "12db4f65_3468_43bf_9477_9c60a2bec1a1",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.8.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.8.0",
+					"minecraft:attachable": {
+						"description": {
+							"identifier": "enderman:sapphire_leggings",
+							"materials": {
+								"default": "armor",
+								"enchanted": "armor_enchanted"
+							},
+							"textures": {
+								"default": "textures/models/armor/sapphire_layer_2",
+								"enchanted": "textures/misc/enchanted_item_glint"
+							},
+							"geometry": {
+								"default": "geometry.humanoid.armor.leggings"
+							},
+							"scripts": {
+								"parent_setup": "variable.leg_layer_visible = 0.0;"
+							},
+							"render_controllers": [
+								"controller.render.armor"
+							]
+						}
+					}
+				},
+				"key": "minecraft:attachable",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "enderman:sapphire_leggings",
+								"materials": {
+									"default": "armor",
+									"enchanted": "armor_enchanted"
+								},
+								"textures": {
+									"default": "textures/models/armor/sapphire_layer_2",
+									"enchanted": "textures/misc/enchanted_item_glint"
+								},
+								"geometry": {
+									"default": "geometry.humanoid.armor.leggings"
+								},
+								"scripts": {
+									"parent_setup": "variable.leg_layer_visible = 0.0;"
+								},
+								"render_controllers": [
+									"controller.render.armor"
+								]
+							}
+						},
+						"key": "description",
+						"children": [
+							{
+								"open": {
+									"identifier": "enderman:sapphire_leggings",
+									"materials": {
+										"default": "armor",
+										"enchanted": "armor_enchanted"
+									},
+									"textures": {
+										"default": "textures/models/armor/sapphire_layer_2",
+										"enchanted": "textures/misc/enchanted_item_glint"
+									},
+									"geometry": {
+										"default": "geometry.humanoid.armor.leggings"
+									},
+									"scripts": {
+										"parent_setup": "variable.leg_layer_visible = 0.0;"
+									},
+									"render_controllers": [
+										"controller.render.armor"
+									]
+								},
+								"data": "enderman:sapphire_leggings",
+								"key": "identifier"
+							},
+							{
+								"open": {
+									"identifier": "enderman:sapphire_leggings",
+									"materials": {
+										"default": "armor",
+										"enchanted": "armor_enchanted"
+									},
+									"textures": {
+										"default": "textures/models/armor/sapphire_layer_2",
+										"enchanted": "textures/misc/enchanted_item_glint"
+									},
+									"geometry": {
+										"default": "geometry.humanoid.armor.leggings"
+									},
+									"scripts": {
+										"parent_setup": "variable.leg_layer_visible = 0.0;"
+									},
+									"render_controllers": [
+										"controller.render.armor"
+									]
+								},
+								"key": "materials",
+								"is_minified": true,
+								"children": {
+									"default": "armor",
+									"enchanted": "armor_enchanted"
+								}
+							},
+							{
+								"open": {
+									"identifier": "enderman:sapphire_leggings",
+									"materials": {
+										"default": "armor",
+										"enchanted": "armor_enchanted"
+									},
+									"textures": {
+										"default": "textures/models/armor/sapphire_layer_2",
+										"enchanted": "textures/misc/enchanted_item_glint"
+									},
+									"geometry": {
+										"default": "geometry.humanoid.armor.leggings"
+									},
+									"scripts": {
+										"parent_setup": "variable.leg_layer_visible = 0.0;"
+									},
+									"render_controllers": [
+										"controller.render.armor"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": {
+									"default": "textures/models/armor/sapphire_layer_2",
+									"enchanted": "textures/misc/enchanted_item_glint"
+								}
+							},
+							{
+								"open": {
+									"identifier": "enderman:sapphire_leggings",
+									"materials": {
+										"default": "armor",
+										"enchanted": "armor_enchanted"
+									},
+									"textures": {
+										"default": "textures/models/armor/sapphire_layer_2",
+										"enchanted": "textures/misc/enchanted_item_glint"
+									},
+									"geometry": {
+										"default": "geometry.humanoid.armor.leggings"
+									},
+									"scripts": {
+										"parent_setup": "variable.leg_layer_visible = 0.0;"
+									},
+									"render_controllers": [
+										"controller.render.armor"
+									]
+								},
+								"key": "geometry",
+								"is_minified": true,
+								"children": {
+									"default": "geometry.humanoid.armor.leggings"
+								}
+							},
+							{
+								"open": {
+									"identifier": "enderman:sapphire_leggings",
+									"materials": {
+										"default": "armor",
+										"enchanted": "armor_enchanted"
+									},
+									"textures": {
+										"default": "textures/models/armor/sapphire_layer_2",
+										"enchanted": "textures/misc/enchanted_item_glint"
+									},
+									"geometry": {
+										"default": "geometry.humanoid.armor.leggings"
+									},
+									"scripts": {
+										"parent_setup": "variable.leg_layer_visible = 0.0;"
+									},
+									"render_controllers": [
+										"controller.render.armor"
+									]
+								},
+								"key": "scripts",
+								"is_minified": true,
+								"children": {
+									"parent_setup": "variable.leg_layer_visible = 0.0;"
+								}
+							},
+							{
+								"open": {
+									"identifier": "enderman:sapphire_leggings",
+									"materials": {
+										"default": "armor",
+										"enchanted": "armor_enchanted"
+									},
+									"textures": {
+										"default": "textures/models/armor/sapphire_layer_2",
+										"enchanted": "textures/misc/enchanted_item_glint"
+									},
+									"geometry": {
+										"default": "geometry.humanoid.armor.leggings"
+									},
+									"scripts": {
+										"parent_setup": "variable.leg_layer_visible = 0.0;"
+									},
+									"render_controllers": [
+										"controller.render.armor"
+									]
+								},
+								"key": "render_controllers",
+								"is_minified": true,
+								"children": [
+									"controller.render.armor"
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

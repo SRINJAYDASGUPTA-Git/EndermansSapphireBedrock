@@ -1,0 +1,56 @@
+{
+	"BP/entities/player.json": {
+		"data": {}
+	},
+	"BP/animation_controllers/bridge/custom_item_behavior.json": {
+		"data": {
+			"a5b8b404_76b9_4038_bd95_325391055280": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"7295e824_875a_46ba_829a_4771420fbdca": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			}
+		}
+	},
+	"BP/items/sapphire.json": {
+		"data": {}
+	},
+	"RP/textures/items/sapphire.item.json": {
+		"data": {}
+	},
+	"BP/items/sapphire_chestplate.json": {
+		"data": {}
+	},
+	"RP/attachables/sapphire_chestplate.json": {
+		"data": {}
+	},
+	"RP/attachables/sapphire_leggings.json": {
+		"data": {}
+	},
+	"RP/attachables/sapphire_helmet.json": {
+		"data": {}
+	},
+	"RP/attachables/sapphire_chestplate.player.json": {
+		"data": {}
+	},
+	"RP/attachables/sapphire_helmet.player.json": {
+		"data": {}
+	},
+	"RP/attachables/sapphire_leggings.player.json": {
+		"data": {}
+	}
+}
